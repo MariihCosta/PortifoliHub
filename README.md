@@ -9,9 +9,9 @@
 Me chamo Maria Eduarda, tenho 19 anos e sou natural de Brasíila. Concluí o ensino médio no SESI, com o curso técnico em matemática. Atualmente, estou cursando Ciência da computação no uniCEUB.
 
 <div> 
-  <a href="https://www.youtube.com/@JoaoMelo-y1l" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="www.youtube.com/@MariaEduardaMoreira-o6f" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/de.mlo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-melo-088949363/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maria-eduarda-costa-709344362/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
